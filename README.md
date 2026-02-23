@@ -1,15 +1,3 @@
-# Drive Guardian 🚗: Automatic Breaking Assistant
-![image](images/main.png)
-
-
-## ⭐⭐ Project Showcase at Hackaccino 2024, Bennett University
-
-
-Developed by [Rohan Pandey](https://github.com/rohan-pandeyy) and [Dhruv Kumar](https://github.com/DhruvK278)
-
-### Video Demo
-
-https://github.com/user-attachments/assets/e4e4497d-8dad-4fd3-b93a-3001a7c23c59
 
 ## Table of Contents
 - [Background](#background)
